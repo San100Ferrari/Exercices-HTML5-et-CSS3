@@ -1,0 +1,29 @@
+.article {
+    display: block;
+    width: 500px;
+    height: 300px;
+    border: solid rgba(0,0,0,0.3);
+    border-radius: 10px; 
+    line-height: 1.5;
+    padding: 7px 20px 10px 20px;
+}
+.titre-article {
+    border-bottom: 2px dotted rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.detail-article {
+    text-align: center;
+    color: #7b7b7b;
+    font-size: 1em;
+}
+.detail-article p {
+    text-align: justify;
+}
+a {
+    width: 10px;
+    background-color: #8870FF;
+    color: white;
+    padding: 10px;
+    border-radius: 200px/50px;
+    text-decoration: none;
+}
