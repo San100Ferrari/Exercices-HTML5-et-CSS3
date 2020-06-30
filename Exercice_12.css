@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+    width: 500px;
+    margin: 5px;
+}
+#layout {
+    text-align: center;
+}
+.gauche {
+    text-align: left;
+}
+.droite {
+    text-align: right;
+}
+button {
+    background-color: blue;
+    border: 1px solid white;
+    color: #FFFF;
+}
